@@ -1,1 +1,1 @@
-export const ENDPOINTURL="https://meet-backend-api.herokuapp.com";
+export const ENDPOINTURL="http://65.1.107.232:8080";
