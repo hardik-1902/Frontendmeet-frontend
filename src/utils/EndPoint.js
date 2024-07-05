@@ -1,1 +1,1 @@
-export const ENDPOINTURL="http://15.207.113.71:8080";
+export const ENDPOINTURL="http://13.201.15.114/:8080";
